@@ -1,0 +1,23 @@
+{
+  "allowedTools": [
+    "Read(*)",
+    "Write(*)",
+    "Edit(*)",
+    "Grep(*)",
+    "Glob(*)",
+    "Bash(*)",
+    "Task(*)",
+    "TodoWrite(*)",
+    "WebFetch(*)",
+    "WebSearch(*)",
+    "NotebookEdit(*)",
+    "BashOutput(*)",
+    "KillShell(*)",
+    "Skill(*)",
+    "SlashCommand(*)"
+  ],
+  "sessionStart": {
+    "description": "Initial setup for development environment",
+    "commands": []
+  }
+}
